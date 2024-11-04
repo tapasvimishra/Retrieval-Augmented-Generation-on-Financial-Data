@@ -1,6 +1,6 @@
 # Retrieval-Augmented-Generation-
 
-# RAG-Powered Q&A for Neural Dynamics Course with LlamaIndex
+# RAG-Powered Q&A for Financial Research Papaers with LlamaIndex
 
 ## Description:
 #### Developed a Retrieval-Augmented Generation (RAG) application using LlamaIndex to interactively 
